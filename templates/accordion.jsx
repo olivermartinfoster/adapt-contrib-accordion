@@ -1,4 +1,5 @@
 import Adapt from 'core/js/adapt';
+import React from 'react';
 import { compile, classes, templates, html } from 'core/js/reactHelpers';
 
 export default function (model, view) {
